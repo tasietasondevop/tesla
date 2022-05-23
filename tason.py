@@ -1,2 +1,2 @@
 print("koko")
-print("koko is king")
+print("koko is ing")
